@@ -59,7 +59,8 @@ const App = () => {
         built by <a href="https://github.com/chewhx">@chewhx</a>
       </h5>
       <h5>
-        see repository <a href="/">here</a>
+        see repository{" "}
+        <a href="https://github.com/chewhx/project-hooks">here</a>
       </h5>
       <Row>
         <Col md={12} className="mb-3">
